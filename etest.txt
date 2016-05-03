@@ -1,0 +1,4 @@
+Employee1: Name = Harry Palmer, Salary = 50000, Department = Ministry of Defence
+Employee1: Name = Erik Grantby, Salary = 60000, Department = Criminal
+Employee1: Name = Nick Green, Salary = 10000000, Department = Student
+Employee1: Name = John Doe, Salary = 40000, Department = Unemployed
